@@ -15,6 +15,6 @@ public class AutoDeployApplication {
 
 	@GetMapping
 	public String hello(){
-		return "hello world1 !";
+		return "hello world2 !";
 	}
 }
